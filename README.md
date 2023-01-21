@@ -1,4 +1,18 @@
-# Svelte + TS + Vite
+## SvelteSPA
+
+* A simple svelteSPA template using [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) as the client side router.
+* Use `vite + svelte-ts` as described below then added eslint+prettier. Not using Sveltekit due to its SSR oriented design.
+
+## How to run
+
+```sh
+git clone https://github.com/laoshaw/sveltespa.git
+cd sveltespa
+pnpm install
+pnpmd run dev
+```
+
+## Svelte + TS + Vite
 
 This template should help get you started developing with Svelte and TypeScript in Vite.
 
